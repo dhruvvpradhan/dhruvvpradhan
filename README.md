@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=SDET+Backend+AI+Python)](https://git.io/typing-svg)
-I engineer the tools that ensure software survives in the wild. My focus is on building scalable backend architectures in Python, infusing them with AI capabilities, and designing intelligent, automated test frameworks.
+
+             
+             I engineer the tools that ensure software survives in the wild. My focus is on building scalable backend architectures in Python, infusing them with AI capabilities, and designing intelligent, automated test frameworks.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvvpradhan&show_icons=true&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&hide_border=true" height="190" alt="GitHub Stats" />
