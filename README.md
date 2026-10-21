@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=SDET+Backend+AI+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=AI+DEV+TEST)](https://git.io/typing-svg)
 
              
              I engineer the tools that ensure software survives in the wild. My focus is on building scalable backend architectures in Python, infusing them with AI capabilities, and designing intelligent, automated test frameworks.
