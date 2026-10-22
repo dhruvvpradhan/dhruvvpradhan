@@ -34,3 +34,11 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
+🔗 Coding & Social
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&borderColor=00E5FF)](https://www.linkedin.com/in/dhruv-pradhan-129055291)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00E5FF&borderColor=00E5FF)](https://leetcode.com/u/dhruvpradhann/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF&borderColor=00E5FF)](mailto:pradhandhruv886@gmail.com)
+
+</div>
